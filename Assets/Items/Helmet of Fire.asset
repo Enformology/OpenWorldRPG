@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Helmet of Fire
   m_EditorClassIdentifier: 
   name: Helmet of Fire
-  icon: {fileID: 21300000, guid: c4c53e6e70504dd48bc4bbb7f9f66d2a, type: 3}
+  icon: {fileID: 21300000, guid: 1d3732f1cf6956742a987f9e06a7874b, type: 3}
   isDefaultItem: 0
   equipSlot: 0
+  mesh: {fileID: 1591344844138556291, guid: 0054e5b940a5703489dade2ac0e4ab64, type: 3}
+  coveredMeshRegions: 
   armorModifier: 0
   damageModifier: 0
